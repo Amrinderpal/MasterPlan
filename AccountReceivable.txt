@@ -1,1 +1,4 @@
-AccountReceivable 123
+
+Fr - Receivable Compte 123
+
+En - Account Receivable 123
