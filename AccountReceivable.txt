@@ -2,3 +2,5 @@
 Fr - Receivable Compte 123
 
 En - Account Receivable 123
+ 
+PB - account receivable +1111
